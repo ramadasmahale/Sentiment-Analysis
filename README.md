@@ -2,11 +2,11 @@
 
 ## Docker URLs for all images -
 
-Frontend app- https://hub.docker.com/repository/docker/ramadasmahale/sentiment-analysis-frontend
+Frontend app- https://hub.docker.com/r/ramadasmahale/sentiment-analysis-frontend
 
-Webapp  - https://hub.docker.com/repository/docker/ramadasmahale/sentiment-analysis-web-app
+Webapp  - https://hub.docker.com/r/ramadasmahale/sentiment-analysis-web-app
 
-Sentiment analysis flask app - https://hub.docker.com/repository/docker/ramadasmahale/sentiment-analysis-logic
+Sentiment analysis flask app - https://hub.docker.com/r/ramadasmahale/sentiment-analysis-logic
 
 ## Screenshot of service running
 
