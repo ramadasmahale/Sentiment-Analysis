@@ -28,3 +28,4 @@ Screen shot for the sentiment analysis service can be found
 10. Deploy sa-frontend and expose it as a service.
 11. Navigate to the IP of the sa-frontend service and the app should be working!!
 
+Check walkthrough.mp4 for demo!
